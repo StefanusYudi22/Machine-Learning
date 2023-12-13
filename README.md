@@ -3,8 +3,34 @@
 ## PROJECT GROUPS
 ```
     - traditional-model
+        - neighbors
+        - linear
+        - support vector
+        - tree
+        - ensemble
+        - decomposition
+        - cluster  
     - recommender-model
+        - neural-collaborative-filtering
+        - clustered-topic-modeling
+        - collaborative-topic-modeling
     - natural-language-processing
+        - sentiment-analysis-with-logistic-regresion
+        - sentiment-analysis-with-naive-bayes
+        - evaluating-word-embedding
+        - naive-machine-translation-and-lsh
+        - autocorrect
+        - part-of-speect-tagging
+        - autocomplete
+        - create-word-embedding
+        - sentiment-analysis-with-neural-networks
+        - language-model-with-gru
+        - name-entity-recognition-with-lstm
+        - question-duplicates-with-siamese-network
+        - neural-machine-translation
+        - text-summarization
+        - question-answering
+        - chatbot
 ```
 ## FOLDER STRUCTURE
 ### LOCAL PROJECT
