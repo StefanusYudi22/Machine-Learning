@@ -13,15 +13,21 @@
     - <Project-Name>
         - data
             - raw
-                - *folders
-                - *.csv
-                - *.xlsx
-                - *.txt
+                - v1
+                    - *folders
+                    - *.csv
+                    - *.xlsx
+                    - *.txt
+                - v2
+                    - *folders
+                    - *.csv
+                    - *.xlsx
+                    - *.txt
             - processed
-                - *.pkl
-            - images
-                - *.png
-                - *.jpeg
+                - v1
+                    - *.pkl
+                - v2
+                    - *.pkl
         - notebook
             - *.ipynb
         - script
@@ -35,6 +41,9 @@
             - <venv-2>
             .
             .
+        - images
+            - *.png
+            - *.jpeg
         <PROJECT-NAME>.md
 ```
 
