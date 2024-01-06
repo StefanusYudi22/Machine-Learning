@@ -1,3 +1,6 @@
-recommendation-model/*
+recommendation-model/clustered-topic-modeling/*
+recommendation-model/collaborative-topic-modeling/*
+recommendation-model/neural-collaborative-filtering/venv/*
+recommendation-model/neural-collaborative-filtering/data/processed/*
 traditional-model/*
 natural-language-processing/*
